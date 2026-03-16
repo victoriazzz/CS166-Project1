@@ -1,0 +1,10 @@
+10001,123 Main St,Riverside,CA,92501
+10002,45 Canyon Dr,Riverside,CA,92507
+10003,78 Palm Ave,Los Angeles,CA,90001
+10004,900 Market St,San Diego,CA,92101
+10005,12 Hilltop Rd,Irvine,CA,92602
+10006,55 Sunset Blvd,Los Angeles,CA,90028
+10007,81 Orange St,Anaheim,CA,92805
+10008,123 Maple St,Springfield,IL,62704
+10009,456 Oak Ave,Riverside,CA,92501
+10010,789 Pine Rd,Austin,TX,73301

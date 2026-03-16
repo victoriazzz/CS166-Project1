@@ -1,0 +1,10 @@
+30001,Dave,Fixit,12
+30002,Elena,Gears,5
+30003,Mike,Wrencher,8
+40001,Mike,Garcia,10
+40002,Anna,Lopez,6
+40003,Chris,Martinez,12
+40004,Kevin,Lee,4
+40005,Laura,Kim,8
+40006,Daniel,White,7
+40007,Sophia,Clark,5
